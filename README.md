@@ -6,4 +6,4 @@ I am Noy, I am a master student in [Nir Fluman's lab](https://www.weizmann.ac.il
 
 Meet my protein of interest : FtsH
 
-![GitHub Logo](https://github.com/NoyRavensary/NoyRavensary.github.io/blob/main/FTSH.png)
+![GitHub Logo](FTSH.png)
