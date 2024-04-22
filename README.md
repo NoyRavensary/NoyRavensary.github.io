@@ -4,8 +4,7 @@ Hi there :)
 
 I am Noy, I am a master student in [Nir Fluman's lab](https://www.weizmann.ac.il/Biomolecular_Sciences/Fluman/home), working on membrane proteins.
 
-![Your Avatar](https://github.com/NoyRavensary/NoyRavensary.github.io/blob/main/me.jpeg)
-
+<img src="https://github.com/NoyRavensary/NoyRavensary.github.io/blob/main/me.jpeg" alt="Your Avatar" width="200" height="250">
 
 Meet my protein of interest : FtsH
 
