@@ -11,6 +11,7 @@ Meet my protein of interest : FtsH
 
 ![GitHub Logo](FTSH.png)
 
+The protein in the image is an important protease for breaking down membrane-bound proteins in E.coli. We are investigating how it identifies unfolded proteins that need to undergo degradation.
 
 This is a link to my solutions repository : [Python-Course-Assignments](https://github.com/NoyRavensary/Python-Course-Assignments)
 
